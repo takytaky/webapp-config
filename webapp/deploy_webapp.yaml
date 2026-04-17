@@ -14,5 +14,5 @@ spec:
         app: webapp
     spec:
       containers:
-        - image: takytaky/webapp:20260417052129_3
+        - image: takytaky/webapp:20260417052544_4
           name: webapp-container
