@@ -8,7 +8,7 @@ metadata:
 spec:
   description: CICD Project
   sourceRepos:
-  - 'https://github.com/sysinstructor/webapp-config.git'
+  - 'https://github.com/takytaky/webapp-config.git'
 
   destinations:
   - namespace: default

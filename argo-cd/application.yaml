@@ -12,7 +12,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: webapp
-    repoURL: 'https://github.com/sysinstructor/webapp-config'
+    repoURL: 'https://github.com/takytaky/webapp-config'
     targetRevision: master
   project: cicd
   syncPolicy:
